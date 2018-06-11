@@ -1,0 +1,155 @@
+/** {
+	outline: 1px solid white;
+}*/
+body {
+	margin: 0px;
+	background-color: #0A263E;
+	color: #fff;
+	font-family: "Comfortaa", "Verdana", san-serif;
+	font-size: 14px;
+	min-width: 900px;
+	line-height: 1.8;
+	font-weight: normal;
+}
+.centr {
+	width: 900px;
+	margin: 0 auto;
+}
+a {
+	color: #fff;
+	text-decoration: none;
+}
+a:hover {
+	color: #B05C39;
+}
+.shapka {
+	background-color: #031728;
+	height: 40px;
+	text-align: center;
+}
+.shapka ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	font-size: 0;
+}
+.shapka li {
+	display: inline-block;
+	vertical-align: top;
+	line-height: 40px;
+}
+.menu {
+	display: block;
+	width: 150px;
+	height: 40px;
+	font-size: 17px;
+	color: #557D9F;
+}
+.shapka a:hover {
+	background-color: #0A263E;
+}
+.active {
+	background-color: #0A263E;
+}
+.main {
+	margin-top: 10px;
+}
+h1, ul {
+	margin: 0px;
+}
+h1 {
+	line-height: 26px;
+}
+.foto {
+	float: left;
+	margin: 0 30px 10px 0;
+	padding: 6px;
+	border: 1px solid white;
+}
+.clearboz {
+	clear: both;
+}
+h2 {
+	color: #B05C39;
+	padding-bottom: 3px;
+	border-bottom: #B05C39 solid 1px;
+	font-weight: lighter;
+	margin-bottom: 0px;
+	clear: both;
+}
+.professia {
+	color: #3B719F;
+	font-size: x-large;
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
+.odna_stroka {
+	margin-top: 0px;
+	margin-bottom: 2px;
+}
+.zagolovki {
+	font-size: 18px;
+	font-weight: lighter;
+}
+table {
+  width: 100%;
+  border-spacing: 5px 20px;
+}
+td {
+  vertical-align: top;
+  padding: 5px;
+}
+.daty {
+	width: 140px;
+	font-size: 14px;
+	line-height: 1.5;
+}
+.adresa, .adresa a {
+	font-size: 14px;
+	color: #557D9F;
+}
+.adresa a:hover {
+	color: #B05C39;
+}
+.navyki {
+	padding-left: 0px;
+}
+.navyki li {
+	background-color: #3B719F;
+	color: #031728;
+	font-family: Source Sans Pro;
+	font-size: 18px;
+	display: inline-block;
+	padding: 1px 10px;
+	margin-top: 14px;
+	margin-right: 4px;
+}
+.primery {
+	height: 240px;
+	margin-top: 30px;
+	margin-bottom: 40px;
+}
+.block {
+	margin-top: 30px;
+	margin-bottom: 40px;
+	text-align: center;
+}
+.knopka {
+	display: inline-block;
+	height: 40px;
+	width: 200px;
+	background-color: #3B719F;
+	border-radius: 20px;
+	color: #031728;
+	font-size: 24px;
+}
+.knopka:hover {
+	background-color: #B05C39;
+	color: #031728;
+}
+footer span {
+	font-size: 14px;
+}
+.centr-v {
+	line-height: 40px;
+}
